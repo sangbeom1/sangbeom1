@@ -1,9 +1,6 @@
-### Hi there 👋
+### About Me 👋
 
-<!--
-**sangbeom1/sangbeom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="left">✨Hi, This is Sangbeom park, a developer who codes dreams.✨</h1> 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
