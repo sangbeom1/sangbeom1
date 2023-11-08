@@ -30,8 +30,8 @@
 
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangbeom1&show_icons=true&locale=en&layout=compact" alt="sangbeom1" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangbeom1&show_icons=true&locale=en" alt="sangbeom1" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangbeom1&" alt="sangbeom1" /></p>
 </div>
